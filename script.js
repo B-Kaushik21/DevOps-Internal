@@ -4,7 +4,7 @@ function add(a,b){
 console.log(add(2,3));
 
 function subtract(a,b){
-    return a - b;
+    return a-b;
 }
 console.log(subtract(5,2));
 function multiply(a,b){
